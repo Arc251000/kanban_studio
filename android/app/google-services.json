@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862113656114",
+    "project_id": "kanban-studio-bbf16",
+    "storage_bucket": "kanban-studio-bbf16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862113656114:android:b99eb38f55101423c07b2b",
+        "android_client_info": {
+          "package_name": "com.example.kanban_studio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7GLNojpytF4paDMBBjCjwaBsM71rJyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
